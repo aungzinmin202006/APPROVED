@@ -6,3 +6,4 @@ BMH-1+0+2+5+8+u+0+_+a+2+5+8 moe wai yan
 BMH-1+0+2+4+1+u+0+_+a+2+4+1 akk
 BMH-1+0+2+8+8+u+0+_+a+2+8+8 name wine htet aung onemonths user 28day start
 BMH-1+0+3+2+2+u+0+_+a+3+2+2 nilar win one months user 28day start
+BMH-1+0+1+7+8+u+0+_+a+1+7+8 thura aung onemonths user 29day start 
