@@ -13,5 +13,3 @@ BMH-1+0+7+4+9+u+0+_+a+7+4+9 thura aung one months user 31day start
 BMH-1+0+2+3+0+u+0+_+a+2+3+0 name wai yan one months user 31day start
 BMH-1+0+2+0+3+u+0+_+a+2+0+3 name zaw min htun one months user 3day start 
 BMH-1+0+2+5+8+u+0+_+a+2+5+8 moe wai yan trial user 
-BMH-1+0+3+4+3+u+0+_+a+3+4+3 zara trial user
-BMH-1+0+2+7+1+u+0+_+a+2+7+1 hein min khant trial user
