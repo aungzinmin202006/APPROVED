@@ -11,3 +11,4 @@ SKL-1+0+3+4+3+u+0+_+a+3+4+3 zara
 SKL-1+0+2+4+1+u+0+_+a+2+4+1 aung ko ko
 SKL-1+0+4+1+0+u+0+_+a+4+1+0 phone myat 2
 SKL-1+0+2+5+8+u+0+_+a+2+5+8 moe wai yan
+SKL-1+0+2+4+3+u+0+_+a+2+4+3 kht
