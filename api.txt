@@ -1,6 +1,4 @@
 BMH-1+0+2+7+3+u+0+_+a+2+7+3 owner
-BMH-1+0+2+4+1+u+0+_+a+2+4+1 akk
-BMH-1+0+2+6+2+u+0+_+a+2+6+2 BMH-1+0+2+8+8+u+0+_+a+2+8+8 name wine htet aung one months user 3day start 
 BMH-1+0+2+6+5+u+0+_+a+2+6+5 owner
 BMH-1+0+2+4+4+u+0+_+a+2+4+4 name wine htet aung one months user 7,12,2023 start 
 BMH-1+0+2+6+9+u+0+_+a+2+6+9 ak
